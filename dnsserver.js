@@ -24,7 +24,7 @@ var sys = require('sys'),
     dgram = require('dgram');
 
 host = 'localhost';
-port = 9999;
+port = 53;
 
 // slices a single byte into bits
 // assuming only single bytes
