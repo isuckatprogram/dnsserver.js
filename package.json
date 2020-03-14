@@ -4,7 +4,8 @@
   "description": "This is a very basic authority server built with Node.js",
   "main": "dnsserver.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node dnsserver.js"
   },
   "repository": {
     "type": "git",
